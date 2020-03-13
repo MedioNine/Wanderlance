@@ -1,4 +1,6 @@
-/Lib/
-/Scripts/
-/.idea/
-.sqlite3
+/Lib
+/Scripts
+/.idea
+db.sqlite3
+pyenv.cfg
+.gitignore
